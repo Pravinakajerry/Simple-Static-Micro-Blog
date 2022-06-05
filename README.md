@@ -2,6 +2,8 @@
 Small and simple microblogging template 😁 Nothing fancy, that's the point
 Download and update and you are good to go 🚀
 
+Live Demo: https://micro-blog-template.vercel.app/
+
 image.png
 
 If someone will find this useful, I will update this template with dark mode switcher
